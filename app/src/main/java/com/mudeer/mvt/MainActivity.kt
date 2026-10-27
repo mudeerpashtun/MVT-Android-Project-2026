@@ -1,4 +1,5 @@
 package com.mudeer.mvt
+import androidx.activity.compose.setContent
 
 import android.content.ContentValues
 import android.media.MediaMetadataRetriever
